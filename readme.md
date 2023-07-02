@@ -12,8 +12,11 @@ The following definitions might be useful:
 
 **Data Quantum/Quanta**
 
+
 **Fitness Function**
+_An architectural fitness function provides an objective integrity assessment of some architectural characteristic(s)._
 
 **Domain**
+_A sphere of knowledge, influence, or activity._
 
 
