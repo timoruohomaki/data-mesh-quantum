@@ -7,6 +7,11 @@ While the Data Mesh and data product obviously follows the concept defined by Zh
 The following definitions might be useful:
 
 **Data Mesh**
+Data Mesh can be defined by its four principles:
+1. Domain-oriented ownership
+2. Data as a product
+3. Self-serve data platform
+4. Federated computational governance
 
 **Data Product**
 Data as a product has the following characteristics:
@@ -19,7 +24,10 @@ Data as a product has the following characteristics:
 + _Valuable on its own_
 + _Secure_
 
+As defined by Dehghani: _A data product provides a set of explicitly defined and easy to use data sharing contracts. Each data product is autonomous and its life cycle and model are managed independently of others._
+
 **Data Quantum/Quanta**
+
 
 **Domain**
 _A sphere of knowledge, influence, or activity._
