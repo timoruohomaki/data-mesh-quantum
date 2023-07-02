@@ -31,3 +31,5 @@ _An architectural fitness function provides an objective integrity assessment of
 
 The following diagram illustrates the basic concept of Data Quantum.
 
+
+
