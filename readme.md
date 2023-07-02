@@ -9,15 +9,15 @@ The following definitions might be useful:
 **Data Mesh**
 
 **Data Product**
-_Data as a product has the following characteristics:
--Discoverable
--Addressable
--Understandable
--Trustworthy and truthful
--Natively accessible
--Interoperable and composable
--Valuable on its own
--Secure_
+Data as a product has the following characteristics:
++ Discoverable
++ Addressable
++ Understandable
++ Trustworthy and truthful
++ Natively accessible
++ Interoperable and composable
++ Valuable on its own
++ Secure_
 
 **Data Quantum/Quanta**
 
