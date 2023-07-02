@@ -44,7 +44,7 @@ The following diagram illustrates the basic concept of Data Quantum.
 ![data-mesh-quantum drawio](https://github.com/timoruohomaki/data-mesh-quantum/assets/25956101/5d2a9a44-8f11-4673-b5cf-dcbbbd4c6694)
 
 So, the plan is to implement here:
-- [ ] Data dictionary to act as a service registry for discovery
+- [ ] Data dictionary to act as a service registry for discovery (based on Serf)
 - [ ] The observability plane (likely using Sentry.io)
 - [ ] The control plane (tbd, maybe Terraform)
 - [ ] The data onboarding, transform and fitness functions
