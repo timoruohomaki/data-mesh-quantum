@@ -2,9 +2,14 @@
 
 ### Ok, so what is this?
 
-While the Data Mesh and data product obviously follows the concept defined by Zhamak Dehghani in her book Data Mesh and blog posts [1] and [2], some of the topics trace back to the earlier work of Neal Ford (Building Evolutionary Architectures) and Eric Evans (Domain-Driven Design).
+While the Data Mesh and data product obviously follows the concept defined by Zhamak Dehghani in her book Data Mesh and blog posts [1] and [2], some of the topics trace back to the earlier work of Neal Ford [Building Evolutionary Architectures](https://oreil.ly/Lrd6t) and Eric Evans (Domain-Driven Design).
 
 The following definitions might be useful:
+
+**Architecture Quantum**
+As defined by Neal Ford, an architectural quantum is the smallest unit of architecture that can be independently deployed, has high functional cohesion, and includes all the "structural elements required for its function".
+
+In the Data Mesh, the data product is an architectural quantum, the smallest unit that can be independently deployed and managed.
 
 **Data Mesh**
 Data Mesh can be defined by its four principles:
@@ -25,9 +30,6 @@ Data as a product has the following characteristics:
 + _Secure_
 
 As defined by Dehghani: _A data product provides a set of explicitly defined and easy to use data sharing contracts. Each data product is autonomous and its life cycle and model are managed independently of others._
-
-**Data Quantum/Quanta**
-
 
 **Domain**
 _A sphere of knowledge, influence, or activity._
