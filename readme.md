@@ -10,14 +10,14 @@ The following definitions might be useful:
 
 **Data Product**
 Data as a product has the following characteristics:
-+ Discoverable
-+ Addressable
-+ Understandable
-+ Trustworthy and truthful
-+ Natively accessible
-+ Interoperable and composable
-+ Valuable on its own
-+ Secure_
++ _Discoverable_
++ _Addressable_
++ _Understandable_
++ _Trustworthy and truthful_
++ _Natively accessible_
++ _Interoperable and composable_
++ _Valuable on its own_
++ _Secure_
 
 **Data Quantum/Quanta**
 
