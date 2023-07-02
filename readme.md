@@ -9,14 +9,25 @@ The following definitions might be useful:
 **Data Mesh**
 
 **Data Product**
+_Data as a product has the following characteristics:
+-Discoverable
+-Addressable
+-Understandable
+-Trustworthy and truthful
+-Natively accessible
+-Interoperable and composable
+-Valuable on its own
+-Secure_
 
 **Data Quantum/Quanta**
-
-
-**Fitness Function**
-_An architectural fitness function provides an objective integrity assessment of some architectural characteristic(s)._
 
 **Domain**
 _A sphere of knowledge, influence, or activity._
 
+**Fitness Function**
+_An architectural fitness function provides an objective integrity assessment of some architectural characteristic(s)._
+
+#### Initial Plan
+
+The following diagram illustrates the basic concept of Data Quantum.
 
